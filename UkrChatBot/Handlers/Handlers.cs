@@ -9,7 +9,6 @@ using Telegram.Bot.Types.ReplyMarkups;
 using UkrChatBot.Client;
 using UkrChatBot.Models;
 using UkrChatBot.Utils;
-
 namespace UkrChatBot.Handlers;
 
 public class Handlers
